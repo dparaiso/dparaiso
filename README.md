@@ -15,12 +15,12 @@ I'm a third year Computer Science student at Simon Fraser University aspiring to
 Here's some interesting facts about me: 
 
 
-:hammer: I'm currently building: A flexible timer android application
+:hammer:**I'm currently building:** A flexible timer android application
 
-:headphones: Currently listening to: SZA's SOS Album 
+:headphones: **Currently listening to:** SZA's SOS Album 
 
-:yarn: Currently mastering: the art of crocheting plushies
+:yarn: **Currently mastering:** the art of crocheting plushies
 
-:grey_question: Ask me about: Any of the projects that I've built and camping! 
+:grey_question: **Ask me about:** Any of the projects that I've built and camping! 
 
 
