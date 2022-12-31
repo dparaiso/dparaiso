@@ -7,14 +7,18 @@
 ](https://www.facebook.com/danieva.paraiso)
 ___
 
-I'm a third year Computer Science student at Simon Fraser University
+I'm a third year Computer Science student at Simon Fraser University aspiring to be a tech-savvy camper. I love to learn new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
+
+
+<img src="gitpic.jpg" align="left" width="250" height="350">
 
 Here's some interesting facts about me: 
 
-<img src="gitpic.jpg" align="left" width="200" height="40">
 
-:hammer: I'm currently building: A flexible timer application
+:hammer: I'm currently building: A flexible timer android application
 
-:headphones: I'm currently listening: SZA's SOS Album 
+:headphones: Currently listening to: SZA's SOS Album 
+
+:grey_question: Ask me about: Any of the projects that I've built and camping! 
 
 
