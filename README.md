@@ -19,6 +19,8 @@ Here's some interesting facts about me:
 
 :headphones: Currently listening to: SZA's SOS Album 
 
+:yarn: I'm crocheting: Animal Plushie (it's a secret)
+
 :grey_question: Ask me about: Any of the projects that I've built and camping! 
 
 
