@@ -11,9 +11,9 @@ I'm a Fourth year Computer Science student at Simon Fraser University aspiring t
 Here's some interesting facts about me: 
 
 
-:hammer:**I'm currently building:** A flexible timer android application
+:hammer:**I'm currently building:** A flexible timer android applicatio
 
-:headphones: **Currently listening to:** SZA's SOS Album 
+:headphones: **Currently listening to:** Central Cee <3  
 
 :yarn: **Currently mastering:** the art of crocheting plushies
 
