@@ -1,3 +1,4 @@
+
 ## Hi, I'm Danieva! :love_you_gesture:
 **Connect with me on:** </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danievaparaiso01/)
@@ -13,7 +14,11 @@ Here's some interesting facts about me:
 
 :hammer:**I'm currently building:** A flexible timer android applicatio
 
-:headphones: **Currently listening to:** J COLE [![MIGHT DELETE LATER](https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2) 😈
+:headphones: **Currently listening to:** 
+```diff
+@@ ~J COLE~ @@
+```
+[MIGHT DELETE LATER](https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2) 😈
 
 :yarn: **Currently mastering:** the art of crocheting plushies
 
