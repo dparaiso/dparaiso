@@ -19,6 +19,7 @@ Here's some interesting facts about me:
 @@ J COLE @@
 ```
 [MIGHT DELETE LATER](https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2) 😈 
+
 :yarn: **Currently mastering:** the art of crocheting plushies
 
 :grey_question: **Ask me about:** Any of the projects that I've built and camping! 
