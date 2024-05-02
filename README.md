@@ -12,15 +12,12 @@ I'm a Fourth year Computer Science student at Simon Fraser University aspiring t
 Here's some interesting facts about me: 
 
 
-:hammer:**I'm currently building:** too much 😅
+:hammer:**I'm currently building:** personal website
 
 :headphones: **Currently listening to:** 
-```diff
-@@ J COLE @@
-```
-[MIGHT DELETE LATER](https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2) 😈 
+J Cole - [MIGHT DELETE LATER](https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2) 😈 
 
-:yarn: **Currently mastering:** pre grad burn out
+:yarn: **Currently mastering:** Running
 
 :grey_question: **Ask me about:** Any of the projects that I've built and camping! 
 
