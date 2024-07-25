@@ -1,7 +1,7 @@
 
 ## Hi, I'm Danieva! :love_you_gesture:
-**Connect with me on:** </br>
 ![](https://komarev.com/ghpvc/?username=dparaiso&style=plastic&color=ff69b4)</br>
+**Connect with me on:** </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danievaparaiso01/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danieva.paraiso)
 I'm a new Computer Science grad from Simon Fraser University with a love for the backcountry. I enjoy learning new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
@@ -18,6 +18,8 @@ Here's some interesting facts about me:
 anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
 
 :yarn: **Currently mastering:** Camping
+
+:orange_book: **Currently reading:** Sarah Addison Allen - Other Birds 
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
