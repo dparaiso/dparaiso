@@ -1,10 +1,10 @@
 
 ## Hi, I'm Danieva! :love_you_gesture:
 **Connect with me on:** </br>
+![](https://komarev.com/ghpvc/?username=dparaiso&style=plastic&color=ff69b4)</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danievaparaiso01/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danieva.paraiso)
-![](https://komarev.com/ghpvc/?username=dparaiso&style=plastic&color=pink)
-I'm a new Computer Science grad from Simon Fraser University aspiring to be a tech-savvy camper. I love to learn new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
+I'm a new Computer Science grad from Simon Fraser University with a love for the backcountry. I enjoy learning new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
 
 
 <img src="gitpic.jpg" align="left" width="250" height="350">
@@ -15,7 +15,7 @@ Here's some interesting facts about me:
 :hammer:**I'm currently building:** personal portfolio website
 
 :headphones: **Currently listening to:** 
- [everything KHALID]([https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=e0b8b073c78d42c2)) 
+anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
 
 :yarn: **Currently mastering:** Camping
 
