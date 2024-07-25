@@ -3,7 +3,7 @@
 **Connect with me on:** </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danievaparaiso01/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danieva.paraiso)
-
+![](https://komarev.com/ghpvc/?username=dparaiso&style=plastic&color=pink)
 I'm a new Computer Science grad from Simon Fraser University aspiring to be a tech-savvy camper. I love to learn new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
 
 
@@ -12,14 +12,14 @@ I'm a new Computer Science grad from Simon Fraser University aspiring to be a te
 Here's some interesting facts about me: 
 
 
-:hammer:**I'm currently building:** personal website
+:hammer:**I'm currently building:** personal portfolio website
 
 :headphones: **Currently listening to:** 
-J Cole - [MIGHT DELETE LATER](https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2) 😈 
+ [everything KHALID]([https://www.youtube.com/watch?v=6T08dHO7GE4&list=OLAK5uy_lf4stOdDj2dmxBh_Bu9gAruJ7A611rtyI&index=2](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=e0b8b073c78d42c2)) 
 
 :yarn: **Currently mastering:** Camping
 
-:grey_question: **Ask me about:** Any of the projects that I've built and camping! 
+:grey_question: **Ask me about:** Any of the projects that I've built! 
 
 ### Some of my skillset includes 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
