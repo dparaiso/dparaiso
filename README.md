@@ -18,9 +18,9 @@ Here's some interesting facts about me:
 :headphones: **Currently listening to:** 
 anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
 
-:yarn: **Currently mastering:** Camping
+:mortar_board: **Currently mastering:** Camping
 
-:orange_book: **Currently reading:** Sarah Addison Allen - Other Birds 
+:books: **Currently reading:** Sarah Addison Allen - Other Birds 
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
