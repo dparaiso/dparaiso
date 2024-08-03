@@ -1,9 +1,9 @@
 
 ## Hi, I'm Danieva! :love_you_gesture:
 ![](https://komarev.com/ghpvc/?username=dparaiso&style=plastic&color=ff69b4)</br>
-**Connect with me on:** </br>
+<! --  **Connect with me on:** </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/danievaparaiso1/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danieva.paraiso)
+ [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danieva.paraiso) -->
 </br>
 I'm a new Computer Science grad from Simon Fraser University with a love for programming. I enjoy learning new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
 
@@ -26,7 +26,7 @@ anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a4
 
 ### Some of my skillset includes 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
