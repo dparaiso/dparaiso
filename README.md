@@ -2,7 +2,7 @@
 ## Hi, I'm Danieva! :love_you_gesture:
 ![](https://komarev.com/ghpvc/?username=dparaiso&style=plastic&color=ff69b4)</br>
 **Connect with me on:** </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danievaparaiso1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/danievaparaiso1/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danieva.paraiso)
 </br>
 I'm a new Computer Science grad from Simon Fraser University with a love for programming. I enjoy learning new techonologies and can't wait to expand my skillset! Connect with me on LinkedIn and Facebook!
