@@ -10,7 +10,7 @@ I'm a new Computer Science grad from Simon Fraser University with a love for pro
 Here's some interesting facts about me: 
 
 
-:hammer:**I'm currently building:** personal portfolio website
+:hammer:**I'm currently building:** website for a small business
 
 :headphones: **Currently listening to:** 
 anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
