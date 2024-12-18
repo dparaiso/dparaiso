@@ -17,7 +17,7 @@ anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a4
 
 :mortar_board: **Currently mastering:** Camping
 
-:books: **Currently reading:** Sarah Addison Allen - Other Birds 
+:books: **Currently reading:** What I talk about when I talk about running - haruki marukami
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
