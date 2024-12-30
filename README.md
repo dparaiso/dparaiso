@@ -15,7 +15,7 @@ Here's some interesting facts about me:
 :headphones: **Currently listening to:** 
 anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
 
-:mortar_board: **Currently mastering:** Camping
+:mortar_board: **Currently mastering:** gym bro 
 
 :books: **Currently reading:** What I talk about when I talk about running - haruki marukami
 
