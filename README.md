@@ -17,7 +17,7 @@ anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a4
 
 :mortar_board: **Currently mastering:** gym bro 
 
-:books: **Currently reading:** What I talk about when I talk about running - haruki marukami
+:books: **Currently reading:** Little Women
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
