@@ -15,7 +15,7 @@ Here's some interesting facts about me:
 :headphones: **Currently listening to:** 
 anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
 
-:mortar_board: **Currently mastering:** gym bro 
+:mortar_board: **Currently mastering:** knee mobility for hiking
 
 :books: **Currently reading:** Little Women
 
