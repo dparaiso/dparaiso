@@ -17,7 +17,7 @@ anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a4
 
 :mortar_board: **Currently mastering:** knee mobility for hiking
 
-:books: **Currently reading:** Little Women
+:books: **Currently reading:** Atomic Habits (basic ik, but a classic)
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
