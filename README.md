@@ -13,11 +13,11 @@ Here's some interesting facts about me:
 :hammer:**I'm currently building:** automatic do not disturb sign
 
 :headphones: **Currently listening to:** 
-anything [Khalid](https://open.spotify.com/playlist/53EV6ylFWqPfiUyyKuotwv?si=a49ce73fbf6f4f0b)
+anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
 :mortar_board: **Currently mastering:** knee mobility for hiking
 
-:books: **Currently reading:** Atomic Habits (basic ik, but a classic)
+:books: **Currently reading:** [The Pivot Year](https://www.amazon.ca/Pivot-Year-Brianna-Wiest/dp/1949759628) (I'm on a self help book kick)
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
