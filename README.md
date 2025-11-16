@@ -17,7 +17,7 @@ anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
 :mortar_board: **Currently mastering:** knee mobility for hiking
 
-:books: **Currently reading:** [The Pivot Year](https://www.amazon.ca/Pivot-Year-Brianna-Wiest/dp/1949759628) (I'm on a self help book kick)
+:books: **Currently reading:** [1929](https://www.amazon.com/1929-Inside-Greatest-History-Shattered/dp/0593296966)
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
