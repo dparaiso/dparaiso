@@ -15,7 +15,7 @@ Here's some interesting facts about me:
 :headphones: **Currently listening to:** 
 anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
-:mortar_board: **Currently mastering:** knee mobility for hiking
+:mortar_board: **Currently mastering:** cert hunting
 
 :books: **Currently reading:** [1929](https://www.amazon.com/1929-Inside-Greatest-History-Shattered/dp/0593296966)
 
