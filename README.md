@@ -17,7 +17,7 @@ anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
 :mortar_board: **Currently mastering:** cert hunting
 
-:books: **Currently reading:** [1929](https://www.amazon.com/1929-Inside-Greatest-History-Shattered/dp/0593296966)
+:books: **Currently reading:** [Psychology of Money](https://www.amazon.ca/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
