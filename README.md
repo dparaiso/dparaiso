@@ -17,7 +17,7 @@ anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
 :mortar_board: **Currently mastering:** cert hunting
 
-:books: **Currently reading:** [Psychology of Money](https://www.amazon.ca/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
+:books: **Currently reading:** [Can't Hurt Me](https://www.amazon.ca/Cant-Hurt-Me-Master-Your/dp/1544512279) for the hype
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
