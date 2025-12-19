@@ -17,7 +17,7 @@ anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
 :mortar_board: **Currently mastering:** cert hunting
 
-:books: **Currently reading:** [Can't Hurt Me](https://www.amazon.ca/Cant-Hurt-Me-Master-Your/dp/1544512279) for the hype
+:books: **Currently reading:** [Art of Spending Money]([https://www.amazon.ca/Cant-Hurt-Me-Master-Your/dp/1544512279](https://www.amazon.ca/Art-Spending-Money-Simple-Choices/dp/0593716620)) 
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
