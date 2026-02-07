@@ -17,7 +17,7 @@ anything [Audrey Hobert](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP)
 
 :mortar_board: **Currently mastering:** cert hunting
 
-:books: **Currently reading:** [The Art of Spending Money](https://www.amazon.ca/Art-Spending-Money-Simple-Choices/dp/0593716620) 
+:books: **Currently reading:** [How We Learn](https://www.amazon.ca/How-We-Learn-Brains-Machine/dp/0525559884) 
 
 :grey_question: **Ask me about:** Any of the projects that I've built! 
 
