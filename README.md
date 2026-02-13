@@ -12,8 +12,7 @@ Here's some interesting facts about me:
 
 :hammer:**I'm currently building:** automatic do not disturb sign
 
-:headphones: **Currently listening to:** 
-anything [J Cole - The Fall Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7)
+:headphones: **Currently listening to:**  [J Cole - The Fall Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7)
 
 :mortar_board: **Currently mastering:** cert hunting
 
